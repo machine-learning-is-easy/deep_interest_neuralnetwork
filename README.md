@@ -10,4 +10,6 @@ Requirements
 
 Run ```python main.py```
 
+additionally, add Transformer model in the recommendaiton model
+
 
